@@ -8,5 +8,6 @@ namespace Lesson_VBU
 {
     class MyModel
     {
+        // pattern command
     }
 }
