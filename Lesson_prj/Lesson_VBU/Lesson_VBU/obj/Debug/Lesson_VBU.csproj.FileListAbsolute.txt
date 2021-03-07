@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\bin\Debug\Lesson_VBU.exe.config
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\bin\Debug\Lesson_VBU.exe
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\bin\Debug\Lesson_VBU.pdb
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.Form1.resources
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.Properties.Resources.resources
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.exe
+C:\Users\student\Desktop\Lesson_prj\Lesson_VBU\Lesson_VBU\obj\Debug\Lesson_VBU.pdb
