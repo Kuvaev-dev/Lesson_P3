@@ -1,4 +1,4 @@
-﻿namespace Lesson_VBU
+namespace Lesson_VBU
 {
     partial class Form1
     {
