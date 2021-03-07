@@ -8,5 +8,8 @@ namespace Lesson_VBU
 {
     class MyLogic
     {
+        // file path
+        // keyboard combination
+        // command class
     }
 }
